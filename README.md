@@ -1,6 +1,6 @@
 # Hi, I'm Maggie ✨ 👩🏼‍💻 
 #### (she/her)
-<img src="./Maggie Walker.png" alt="banner" width="100%">
+<img src="https://github.com/MaggieWalker/MaggieWalker/blob/master/Maggie%20Walker.png" alt="banner" width="100%">
 
 I'm a software engineer and educator with a people-first mentality. I love a creative challenge and I care deeply about building community. I'm an alum of the Grace Hopper program 💻 and these days you can find me at The Orchard 🍊.
 <!--
