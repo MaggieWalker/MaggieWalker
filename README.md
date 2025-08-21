@@ -2,7 +2,7 @@
 #### (she/her)
 <img src="https://github.com/MaggieWalker/MaggieWalker/blob/master/Maggie%20Walker%20no%20image.png" alt="banner" width="100%">
 
-I'm a software engineer and educator with a people-first mentality. I love a creative challenge and I care deeply about building community. I'm an alum of the Grace Hopper program 💻 and these days you can find me at The Orchard 🍊.
+I'm a software engineer and educator with a people-first mentality. I love a creative challenge and I care deeply about building community. I'm an alum of the Grace Hopper program 💻 and these days you can find me at Sony Music Entertainment.
 <!--
 **MaggieWalker/MaggieWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
